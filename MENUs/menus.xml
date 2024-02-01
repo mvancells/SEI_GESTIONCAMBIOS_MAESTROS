@@ -1,0 +1,13 @@
+﻿<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43535" String="Autorización de proveedores" Type="1" UniqueID="SEI_UNODE50_AutorizacionPr" />
+    </action>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43535" String="Autorización de clientes" Type="1" UniqueID="SEI_UNODE50_AutorizacionCl" />
+    </action>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="3072" String="Autorización de articulos" Type="1" UniqueID="SEI_UNODE50_AutorizacionA" />
+    </action>
+  </Menus>
+</Application>

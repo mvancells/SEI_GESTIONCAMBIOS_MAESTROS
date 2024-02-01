@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="SEI_GEST">
+  <Profiles />
+  <Settings>
+    <Setting Name="ITEM_FORMTYPEEX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="BP_FORMTYPEEX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">134</Value>
+    </Setting>
+    <Setting Name="BTN_OK_ID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MENU_AutorizacionPr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SEI_UNODE50_AutorizacionPr</Value>
+    </Setting>
+    <Setting Name="MENU_AutorizacionCl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SEI_UNODE50_AutorizacionCl</Value>
+    </Setting>
+    <Setting Name="MENU_AutorizacionA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SEI_UNODE50_AutorizacionA</Value>
+    </Setting>
+    <Setting Name="GESTIONIC_FORMID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SEI_UNODE50_AutorizacionCl</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
